@@ -1,4 +1,4 @@
-# Decision Trees Project
+# Model Comparison Mini Project
 
 This repository contains a Jupyter notebook that explores decision tree models using classic datasets.
 
