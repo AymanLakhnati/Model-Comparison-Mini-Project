@@ -17,6 +17,7 @@ The notebook trains and evaluates several classification models:
 - Decision Tree
 - Random Forest
 - Logistic Regression
+- XGBoost
 
 It also includes:
 
